@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "669db278-76ce-4a53-bc44-6633f6854b2c": {
+      "ProjectGuid": "669db278-76ce-4a53-bc44-6633f6854b2c",
+      "DisplayName": "AspNet-Core-with-ReactJS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
